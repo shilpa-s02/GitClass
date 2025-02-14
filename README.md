@@ -1,7 +1,8 @@
 - Git Class
 
 - Anish N
--cris
+- Shefin
+- cris
 - Maneesha Mohan
 - Aiswarya S
 
