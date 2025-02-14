@@ -1,11 +1,4 @@
 - Git Class
 
 - Anish N
-- Jijo
-- Unni A R
-- Ayana Mohan
-- Franklin 
-- Shefin
-- cris
-- Maneesha Mohan
-- Aiswarya S
+- Rohan
