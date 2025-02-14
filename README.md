@@ -1,6 +1,7 @@
 - Git Class
 
 - Anish N
+- Ayana Mohan
 - Franklin 
 - Shefin
 - cris
