@@ -15,6 +15,7 @@
 - Thamanna Sajeevan
 - Rejin
 - Noufal NS
+- Shilpa S Nair
 - Vismaya A S
 - Athira S A
 - Josmy V Joseph
