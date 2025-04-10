@@ -15,4 +15,4 @@
 - Thamanna Sajeevan
 - Rejin
 - Noufal NS
--Gurumithra S S
+- Gurumithra S S
